@@ -1,0 +1,12 @@
+header {
+    width: 100%;
+    height: 70px;
+    background-color: #242a40;
+    color: azure;
+}
+
+.buttonConnect {
+    float: right;
+    margin-top: 20px;
+    margin-right: 20px;
+}
